@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Taxus77
+- 👋 Hi, I’m @Dawid
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, Python
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me taxus1337@gmail.com
+- 📫 How to reach me Dawidkielbowicz53@gmail.com
 
 <!---
 Taxus77/Taxus77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
